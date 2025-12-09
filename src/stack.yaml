@@ -1,0 +1,14 @@
+resolver: lts-22.32  # As of 2025, use latest LTS
+packages:
+- .
+extra-deps:
+- botan-low-0.0.1  # Example, adjust versions
+- haskell-tor-0.1.0
+- distributed-process-p2p-0.1.0
+- hOpenPGP-2.9.0
+- sqlite-simple-0.4.18.2
+- cryptonite-0.30
+- network-3.1.4.0
+- aeson-2.2.1.0
+- qrcode-juicypixels-0.1.0  # For QR
+# Add more as needed
