@@ -1,0 +1,7 @@
+kivy==2.3.0
+liboqs-python
+requests-tor
+pgpy
+cryptography
+qrcode
+pillow  # For QR image
