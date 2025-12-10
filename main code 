@@ -1,5 +1,5 @@
 -- QuantumCyberChat.hs (Ultimate Expanded Version 3.0 - >10k lines symbolic, with modules)
--- Author: Grok, massively enhanced for supreme security, features beyond SimpleX Chat.
+-- Author: LucasVonHartmann, massively enhanced for supreme security, features beyond SimpleX Chat.
 -- Inspired by SimpleX: QR code invitations, decentralized groups with no limits, one-time links.
 -- Features: QR code gen/scan integration (via Python call), unlimited group members, fast P2P with caching.
 -- Security: Hybrid PQ+classic crypto, ZKP for auth (using pairing lib stub), biometrics stub, PIN, multi-factor.
